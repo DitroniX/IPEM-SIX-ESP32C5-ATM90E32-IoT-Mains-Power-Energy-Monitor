@@ -4,19 +4,18 @@
 
 ## Welcome to IPEM SIX
 
-Board Information to follow.   
+Board Information to follow.   Pre-Release Information
+
+[![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
+
+[**For Latest Project Updates - Click Here**]https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
 
 
 ## Updates
 
--   26-04-14 - Finalising design process this week, in preparation for production.
--   26-04-11 - Lab testing is all but complete and the board is working really well on all fronts.
--   26-04-08 - Pre-Production Boards Arrived and now in Test.
--   26-03-29 - Preview Overview Released
--   26-03-20 - Pre-Production boards in SMT fabrication, for final testing.
--   26-03-15 - Beta Development Complete
--   26-02-15 - In Beta Development 
--   26-02-01 - Project Launched
+-   26-04-08 - Project Information Review
+-   26-03-21 - In Beta Development 
+-   26-03-20 - Project Launched
 
 ## Preliminary Information and Spec to follow 
 
