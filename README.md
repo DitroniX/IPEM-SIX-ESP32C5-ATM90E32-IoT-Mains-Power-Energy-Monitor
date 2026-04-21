@@ -11,12 +11,12 @@
 
 Board Information to follow.   Pre-Release Information.  Availability June 2026.
 
-### Top Level
+### Top Level - Provisional
 
 * ESP32-C5
 * ATM90E32
 * Six x CT Clamp Inputs
-* 1, 2 and 3 Phases
+* 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
 * AC/DC Powered (Like original IPEM)
 * RS485 Interface
@@ -28,7 +28,7 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
 
  - The accurate **[Atmel ATM90E32](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/Atmel-46003-SE-M90E32AS-Datasheet.pdf)** is used for Enhanced Poly-Phase High-Performance Wide-Span Energy Metering, with fast SPI data communications to an Espressif **ESP32-C5 MCU**.
- - The board can **safely monitor a range of mains AC circuits**, from Single phase, Split or Dual phase (such as USA), and both types of Three phase Delta. Full 50 Hz and 60 Hz.
+ - The board can **safely monitor a range of mains AC circuits**, from Single phase, Split or Dual phase (such as USA), and  Three phase 3P3W Delta. Full 50 Hz and 60 Hz.
  - An onboard accurate **16bit ADC** allows for monitoring of DC voltages up to 80V.
    
  - The **RS485** port allows interfacing to other local or remote sensors and monitors.
