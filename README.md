@@ -4,19 +4,99 @@
 
 ## Welcome to IPEM SIX
 
-Board Information to follow.   
+[![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
+
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
+
+
+Board Information to follow.   Pre-Release Information.  Availability June 2026.
+
+### Top Level - Provisional
+
+* ESP32-C5
+* ATM90E32
+* Six x CT Clamp Inputs
+* 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
+* Terminal Blocks
+* AC/DC Powered (Like original IPEM)
+* RS485 Interface
+* OPTO Output
+* ADC Inputs
+
+### Current Monitoring and Interfaces
+A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
+
+ - The accurate **[Atmel ATM90E32](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/Atmel-46003-SE-M90E32AS-Datasheet.pdf)** is used for Enhanced Poly-Phase High-Performance Wide-Span Energy Metering, with fast SPI data communications to an Espressif **ESP32-C5 MCU**.
+ - The board can **safely monitor a range of mains AC circuits**, from Single phase, Split or Dual phase (such as USA), and  Three phase 3P3W Delta. Full 50 Hz and 60 Hz.
+ - An onboard accurate **16bit ADC** allows for monitoring of DC voltages up to 80V.
+   
+ - The **RS485** port allows interfacing to other local or remote sensors and monitors.
+  
+ - A **galvanically isolated OPTO output** can be used to safely connect or drive a range of external systems or devices.
+   
+ - Two **expansion ports**, SPI and I2C, facilitate an optional display panel
+ 
+ -  **MicroSD card**, for buffering or logging data.  This is mounted in the display panel.
+   
+ - The IPEM SIX has been designed to be compact, with an option to fit into a **DIN enclosure**, for cabinet or rack installations.
+
+ ### Safety First
+As with all our boards, safety is paramount, with AC sensing being from lower voltage inputs, through galvanically isolated mains transformers. Examples are bell transformers. This allows the IPEM SIX to fully safely function at voltages below 20V.  
+
+## AC Monitoring
+All AC Mains is safely and galvanically isolated using a low voltage transformer.  Examples are bell transformers.
+
+### Supports AC Monitoring Around The [World](https://en.wikipedia.org/wiki/Mains_electricity_by_country)
+
+-   **Europe and UK** which typically is 230 V @ 50 Hz
+    -   With ranges around 216 V to 253 V
+    
+-   **USA and Canada** which typically is 120 V or 230 V @ 60 Hz
+    -   With ranges around 114 V to 126 V
+
+-   **Japan** which typically is 100 V @ 50 Hz or 60 Hz
+    -   Eastern Japan is 50 Hz, and Western Japan is 60 Hz
+-   **World** typically is 220V-240 V @ 50 Hz
+
+### Where can IPEM SIX be used?
+
+The IPEM SIX board can be used in a number of projects and installations such as:
+
+-   Homes
+    
+-   Education
+    
+-   Offices
+    
+-   Commercial
+    
+-   Factories
+    
+-   Farms
+    
+-   EV Charging
+    
+-   Smart Metering
+    
+-   Greenhouses
+    
+-   Factories
+    
+-   Industry
+    
+-   Solar Farms
+    
+-   Wind Farms
+    
+-   Off Grid Systems
 
 
 ## Updates
 
--   26-04-14 - Finalising design process this week, in preparation for production.
--   26-04-11 - Lab testing is all but complete and the board is working really well on all fronts.
--   26-04-08 - Pre-Production Boards Arrived and now in Test.
--   26-03-29 - Preview Overview Released
--   26-03-20 - Pre-Production boards in SMT fabrication, for final testing.
--   26-03-15 - Beta Development Complete
--   26-02-15 - In Beta Development 
--   26-02-01 - Project Launched
+-   26-04-08 - Target Manufacture June 2026
+-   26-04-08 - Project Information Review
+-   26-03-21 - In Beta Development 
+-   26-03-20 - Project Launched
 
 ## Preliminary Information and Spec to follow 
 
