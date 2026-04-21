@@ -94,6 +94,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ## Updates
 
+-   26-04-08 - Target Manufacture June 2026
 -   26-04-08 - Project Information Review
 -   26-03-21 - In Beta Development 
 -   26-03-20 - Project Launched
