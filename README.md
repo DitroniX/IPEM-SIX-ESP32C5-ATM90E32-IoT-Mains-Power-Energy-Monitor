@@ -4,9 +4,14 @@
 
 ## Welcome to IPEM SIX
 
+[![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
+
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
+
+
 Board Information to follow.   Pre-Release Information
 
-Top Level
+### Top Level
 
 * ESP32-C5
 * ATM90E32
@@ -18,9 +23,6 @@ Top Level
 * OPTO Output
 * ADC Inputs
 
-[![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
-
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
 
 ### Current Monitoring and Interfaces
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
