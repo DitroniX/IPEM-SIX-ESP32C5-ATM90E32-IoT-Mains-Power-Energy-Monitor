@@ -23,7 +23,6 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 * OPTO Output
 * ADC Inputs
 
-
 ### Current Monitoring and Interfaces
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
 
