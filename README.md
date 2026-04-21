@@ -9,7 +9,7 @@
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
 
 
-Board Information to follow.   Pre-Release Information
+Board Information to follow.   Pre-Release Information.  Availability June 2026.
 
 ### Top Level
 
