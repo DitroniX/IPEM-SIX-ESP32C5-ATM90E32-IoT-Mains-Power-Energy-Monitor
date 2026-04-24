@@ -14,6 +14,8 @@
 
 Board Information to follow.   Pre-Release Information.  Availability June 2026.
 
+**IPEM SIX**  is a self-contained, powerful ATM90E32 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.  No soldering required.
+
 ### Top Level - Provisional
 
 * ESP32-C5
