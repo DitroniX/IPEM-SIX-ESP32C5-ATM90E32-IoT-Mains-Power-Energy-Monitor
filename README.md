@@ -109,7 +109,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ### Availability
 
-**IPEM Plus, along with the optional Display Board and DIN enclosure, will be available for purchase in Early May 2026.**
+**IPEM SIX, along with the optional Display Board and DIN enclosure, will be available for purchase in June 2026.**
 
 ## **Further Information**
 
