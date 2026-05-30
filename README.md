@@ -7,6 +7,7 @@
 ## Welcome to IPEM SIX
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
+[![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/discussions)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
 
@@ -19,7 +20,7 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 ### Top Level - Provisional
 
 * ESP32-C5
-* ATM90E32
+* ATM90E32 x 2
 * Six x CT Clamp Inputs
 * 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
@@ -98,6 +99,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ## Updates
 
+-   26-05-30 - Update: The IPEM SIX is still planned for June, although has shifted back slighty due to other projects.
 -   26-04-08 - Target Manufacture June 2026
 -   26-04-08 - Project Information Review
 -   26-03-21 - In Beta Development 
@@ -109,7 +111,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ### Availability
 
-**IPEM Plus, along with the optional Display Board and DIN enclosure, will be available for purchase in Early May 2026.**
+**IPEM SIX, along with the optional Display Board and DIN enclosure, will be available for purchase in June 2026.**
 
 ## **Further Information**
 
