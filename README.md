@@ -19,7 +19,7 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 ### Top Level - Provisional
 
 * ESP32-C5
-* ATM90E32
+* ATM90E32 x 2
 * Six x CT Clamp Inputs
 * 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
@@ -98,6 +98,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ## Updates
 
+-   26-05-30 - Update: The IPEM SIX is still planned for June, although has shifted back slighty due to other projects.
 -   26-04-08 - Target Manufacture June 2026
 -   26-04-08 - Project Information Review
 -   26-03-21 - In Beta Development 
