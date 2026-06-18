@@ -99,6 +99,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ## Updates
 
+-   26-06-04- IPEM SIX design in complete and Proto board in production. Still plan for availability around end of June.
 -   26-05-30 - Update: The IPEM SIX is still planned for June, although has shifted back slighty due to other projects.
 -   26-04-08 - Target Manufacture June 2026
 -   26-04-08 - Project Information Review
