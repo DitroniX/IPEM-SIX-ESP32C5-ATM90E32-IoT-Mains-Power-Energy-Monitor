@@ -2,8 +2,6 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-**Pre-Release Information.
-
 ## Welcome to IPEM SIX
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
@@ -28,6 +26,7 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 * RS485 Interface
 * OPTO Output
 * ADC Inputs
+* GPIO Input/Output
 
 ### Current Monitoring and Interfaces
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
@@ -68,38 +67,26 @@ All AC Mains is safely and galvanically isolated using a low voltage transformer
 
 The IPEM SIX board can be used in a number of projects and installations such as:
 
--   Homes
-    
+-   Home
 -   Education
-    
 -   Offices
-    
 -   Commercial
-    
 -   Factories
-    
 -   Farms
-    
 -   EV Charging
-    
 -   Smart Metering
-    
--   Greenhouses
-    
--   Factories
-    
--   Industry
-    
--   Solar Farms
-    
--   Wind Farms
-    
+-   Greenhouses 
+-   Factories 
+-   Industry  
+-   Solar Farms 
+-   Wind Farms 
 -   Off Grid Systems
 
 
 ## Updates
 
--   26-06-04- IPEM SIX design in complete and Proto board in production. Still plan for availability around end of June.
+-   26-06-17 - IPEM SIX Proto boards sucessfuly completed testing. Now in production.
+-   26-06-04 - IPEM SIX design in complete and Proto board in production. Still plan for availability around end of June.
 -   26-05-30 - Update: The IPEM SIX is still planned for June, although has shifted back slighty due to other projects.
 -   26-04-08 - Target Manufacture June 2026
 -   26-04-08 - Project Information Review
