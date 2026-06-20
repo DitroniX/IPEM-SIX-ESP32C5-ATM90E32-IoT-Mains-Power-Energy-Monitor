@@ -1,4 +1,4 @@
-# IPEM SIX | ESP32C5 ATM90E32 IoT Mains Power Energy Monitor
+# IPEM SIX | ESP32C5 | DUAL ATM90E32 IoT Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
@@ -15,7 +15,7 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 
 **IPEM SIX**  is a self-contained, powerful ATM90E32 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.  No soldering required.
 
-### Top Level - Provisional
+### Top Level
 
 * ESP32-C5
 * ATM90E32 x 2
@@ -27,6 +27,10 @@ Board Information to follow.   Pre-Release Information.  Availability June 2026.
 * OPTO Output
 * ADC Inputs
 * GPIO Input/Output
+
+### ESPHome
+
+Full integration has been provided for [IPEM SIX within Home Assistant](https://github.com/DitroniX/Home-Assistant-Dev/tree/main/YAML%20Examples/IPEM%20SIX).
 
 ### Current Monitoring and Interfaces
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
@@ -85,6 +89,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ## Updates
 
+-   26-06-20 - Added a complete IPEM SIX - [ESPHome Home Assistant Integration](https://github.com/DitroniX/Home-Assistant-Dev/tree/main/YAML%20Examples/IPEM%20SIX).
 -   26-06-17 - IPEM SIX Proto boards sucessfuly completed testing. Now in production.
 -   26-06-04 - IPEM SIX design in complete and Proto board in production. Still plan for availability around end of June.
 -   26-05-30 - Update: The IPEM SIX is still planned for June, although has shifted back slighty due to other projects.
