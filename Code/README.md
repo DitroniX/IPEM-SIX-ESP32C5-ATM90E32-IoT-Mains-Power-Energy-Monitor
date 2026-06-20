@@ -2,6 +2,8 @@
 
 ------------
 
+[![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
+
 This folder contains Example Source Code.
 
   The purpose of the test code is to cycle through the various main functions of the board, as shown below, as part of board bring up testing.
