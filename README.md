@@ -18,18 +18,17 @@ Pre-Release Information.  Availability June 2026.
 
 **IPEM SIX** C5 provides a complete energy monitoring platform:
 
-✅ 6 Current channels for either CT Clamps or Rogowski Coil.
+✅ 6 Current channels for either CT Clamps or Rogowski Coil  
 ✅ Dual ATM90E32 polyphase metering  
 ✅ Import/export detection  
 ✅ Per-channel energy tracking  
-✅ Per-bank energy tracking
-✅ Home Assistant native integration (ESPHome)
-✅ WiFi diagnostics  
+✅ Per-bank energy tracking  
+✅ Home Assistant native integration (ESPHome)  
+✅ WiFi diagnostics   
 ✅ Health monitoring  
 ✅ Configurable load alerts  
 ✅ OTA updates  
-✅ ESP32-C5 performance platform 2.4GHz and 5GHz bands.
-
+✅ ESP32-C5 performance platform 2.4GHz and 5GHz bands 
 
 Designed as a professional-grade residential and small commercial energy monitoring solution.
 
