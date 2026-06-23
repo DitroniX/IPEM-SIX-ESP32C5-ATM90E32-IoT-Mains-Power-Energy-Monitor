@@ -7,12 +7,11 @@
 [![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki)
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/discussions)
 [![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
+[![Compare DitroniX Mains Power IoT Energy Monitor Options](https://github.com/DitroniX/DitroniX/blob/main/Files/Compare%20DitroniX%20Energy%20Monitors.png?raw=true)](https://github.com/DitroniX/DitroniX/blob/main/Compare%20Mains%20Power%20Energy%20Monitors.md)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
 
 ![IPEM SIX Preview](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Overview.png)
-
-Pre-Release Information.  Availability June 2026.
 
 **IPEM SIX**  is a self-contained, powerful ATM90E32 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.  No soldering required.
 
