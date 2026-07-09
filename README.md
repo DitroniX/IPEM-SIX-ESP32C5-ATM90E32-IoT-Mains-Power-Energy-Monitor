@@ -105,6 +105,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ## Updates
 
+-   26-07-09 - FLIX Lite for IPEM SIX uploaded.  This is a bring up application and is flashed to all boards prior to shipping.
 -   26-06-20 - Added a complete IPEM SIX - [ESPHome Home Assistant Integration](https://github.com/DitroniX/Home-Assistant-Dev/tree/main/YAML%20Examples/IPEM%20SIX).
 -   26-06-17 - IPEM SIX Proto boards sucessfuly completed testing. Now in production.
 -   26-06-04 - IPEM SIX design in complete and Proto board in production. Still plan for availability around end of June.
