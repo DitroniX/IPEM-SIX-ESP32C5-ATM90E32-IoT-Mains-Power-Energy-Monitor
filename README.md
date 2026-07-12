@@ -44,7 +44,7 @@ Designed as a professional-grade residential and small commercial energy monitor
 * 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
 * AC/DC Powered (Like original IPEM)
-* RS485 Interface (MODBUS, DMC etc.)
+* RS485 Interface (MODBUS, DMX, DMX512 etc.)
 * OPTO Output
 * ADC Inputs 
 * GPIO Input/Output
