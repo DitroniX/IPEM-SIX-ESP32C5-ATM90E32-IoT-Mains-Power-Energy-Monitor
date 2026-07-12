@@ -45,8 +45,8 @@ Designed as a professional-grade residential and small commercial energy monitor
 * Terminal Blocks
 * AC/DC Powered (Like original IPEM)
 * RS485 Interface (MODBUS, DMX, DMX512 etc.)
-* OPTO Output
-* ADC Inputs 
+* OPTO Output (Galvanically Isolated)
+* ADC Inputs (16bit,)
 * GPIO Input/Output
 
 ### ESPHome
