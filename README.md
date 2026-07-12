@@ -64,7 +64,7 @@ A range of the mains current sensors (CT Clamps) maybe connected. This allows fo
   
  - A **galvanically isolated OPTO output** can be used to safely connect or drive a range of external systems or devices.
    
- - Two **expansion ports**, SPI and I2C, facilitate an optional display panel
+ - Two **expansion ports**, SPI and I2C, facilitate an optional display panel, including MicroSD card.
  
  -  **MicroSD card**, for buffering or logging data.  This is mounted in the display panel.
    
