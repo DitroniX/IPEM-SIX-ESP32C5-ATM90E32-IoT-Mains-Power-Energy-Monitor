@@ -11,9 +11,14 @@
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/tree/main#updates)
 
-![IPEM SIX Preview](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Overview.png)
+![IPEM SIX](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Overview.png)
+
+![IPEM SIX Connections](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Terminal%20Connections.png)
+
 
 **IPEM SIX**  is a self-contained, powerful ATM90E32 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.  No soldering required.
+
+## Availability July 2026. [Pre-order Now](Https://DitroniX.net)
 
 **IPEM SIX** C5 provides a complete energy monitoring platform:
 
@@ -34,14 +39,14 @@ Designed as a professional-grade residential and small commercial energy monitor
 ### Top Level
 
 * ESP32-C5
-* ATM90E32 x 2
-* Six x CT Clamp Inputs
+* ATM90E32AS x 2 Independent 
+* Six x CT Clamp Inputs / Ragowski Coil
 * 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
 * AC/DC Powered (Like original IPEM)
-* RS485 Interface
-* OPTO Output
-* ADC Inputs
+* RS485 Interface (MODBUS, DMX, DMX512 etc.)
+* OPTO Output (Galvanically Isolated)
+* ADC Inputs (16bit,)
 * GPIO Input/Output
 
 ### ESPHome
@@ -59,7 +64,7 @@ A range of the mains current sensors (CT Clamps) maybe connected. This allows fo
   
  - A **galvanically isolated OPTO output** can be used to safely connect or drive a range of external systems or devices.
    
- - Two **expansion ports**, SPI and I2C, facilitate an optional display panel
+ - Two **expansion ports**, SPI and I2C, facilitate an optional display panel, including MicroSD card.
  
  -  **MicroSD card**, for buffering or logging data.  This is mounted in the display panel.
    
