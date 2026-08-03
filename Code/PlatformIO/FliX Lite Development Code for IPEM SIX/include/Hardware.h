@@ -18,7 +18,7 @@
 // ****************  VARIABLES / DEFINES / STATIC / STRUCTURES / CONSTANTS ****************
 
 // Application
-String AppVersion = "260709"; // Internal Firmware Date Code
+String AppVersion = "260730"; // Internal Firmware Date Code
 
 // App USER
 String LocationName = "Test"; // Enter Name Location of Device such as House, Solar etc.  Used for Serial Monitor and OLED.
@@ -673,7 +673,7 @@ void DisplayBoardConfiguration()
   PrintUnderline("Dual ATM90E32 - Only ONE is tested");
   Serial.println("Note that only ONE of the ATM90E32AS circuits is tested in this bring up application.");
   Serial.println("");
-  Serial.println("This confirms calibration and SPI communications");
+  Serial.println("This confirms calibration and SPI communications for both Banks");
 
   // Stabalise
   delay(100);
