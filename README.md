@@ -1,4 +1,4 @@
-# IPEM SIX | ESP32C5 | DUAL ATM90E32 IoT Mains Power Energy Monitor
+# IPEM SIX | ESP32C5 | DUAL ATM90E32AS IoT Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
