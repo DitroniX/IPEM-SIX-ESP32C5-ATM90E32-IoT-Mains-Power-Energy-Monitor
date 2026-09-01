@@ -125,7 +125,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ### Availability
 
-**IPEM SIX, along with the optional Display Board and DIN enclosure, will be available for purchase in June 2026.**
+**IPEM SIX, either a SDK Board, or complete kit along with the optional Display Board and DIN enclosure, is available now, from the https://ditronix.net/ Shop
 
 ## **Further Information**
 
