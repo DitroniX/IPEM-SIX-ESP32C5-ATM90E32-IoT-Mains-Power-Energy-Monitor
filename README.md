@@ -54,7 +54,7 @@ Full integration has been provided for [IPEM SIX within Home Assistant](https://
 ### Current Monitoring and Interfaces
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
 
- - The accurate **[Atmel ATM90E32](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/Atmel-46003-SE-M90E32AS-Datasheet.pdf)** is used for Enhanced Poly-Phase High-Performance Wide-Span Energy Metering, with fast SPI data communications to an Espressif **ESP32-C5 MCU**.
+ - The accurate **[Atmel ATM90E32AS](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/Atmel-46003-SE-M90E32AS-Datasheet.pdf)** is used for Enhanced Poly-Phase High-Performance Wide-Span Energy Metering, with fast SPI data communications to an Espressif **ESP32-C5 MCU**.
  - The board can **safely monitor a range of mains AC circuits**, from Single phase, Split or Dual phase (such as USA), and  Three phase 3P3W Delta. Full 50 Hz and 60 Hz.
  - An onboard accurate **16bit ADC** allows for monitoring of DC voltages up to 80V.
    
