@@ -21,7 +21,7 @@
 **IPEM SIX** C5 provides a complete energy monitoring platform:
 
 ✅ 6 Current channels for either CT Clamps or Rogowski Coil  
-✅ Dual ATM90E32 polyphase metering  
+✅ Dual ATM90E32AS polyphase metering  
 ✅ Import/export detection  
 ✅ Per-channel energy tracking  
 ✅ Per-bank energy tracking  
@@ -37,7 +37,7 @@ Designed as a professional-grade residential and small commercial energy monitor
 ### Top Level
 
 * ESP32-C5
-* ATM90E32AS x 2 Independent 
+* ATM90E32AS x 2 Independent. Each ATM90E32AS has its own Xtal.
 * Six x CT Clamp Inputs / Ragowski Coil
 * 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
