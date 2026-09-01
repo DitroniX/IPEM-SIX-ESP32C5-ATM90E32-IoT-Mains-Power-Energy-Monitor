@@ -18,8 +18,6 @@
 
 **IPEM SIX**  is a self-contained, powerful ATM90E32 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.  No soldering required.
 
-## Availability July 2026. [Pre-order Now](Https://DitroniX.net)
-
 **IPEM SIX** C5 provides a complete energy monitoring platform:
 
 ✅ 6 Current channels for either CT Clamps or Rogowski Coil  
