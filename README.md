@@ -1,4 +1,4 @@
-# IPEM SIX | ESP32C5 | DUAL ATM90E32 IoT Mains Power Energy Monitor
+# IPEM SIX | ESP32C5 | DUAL ATM90E32AS IoT Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
@@ -18,12 +18,10 @@
 
 **IPEM SIX**  is a self-contained, powerful ATM90E32 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.  No soldering required.
 
-## Availability July 2026. [Pre-order Now](Https://DitroniX.net)
-
 **IPEM SIX** C5 provides a complete energy monitoring platform:
 
 ✅ 6 Current channels for either CT Clamps or Rogowski Coil  
-✅ Dual ATM90E32 polyphase metering  
+✅ Dual ATM90E32AS polyphase metering  
 ✅ Import/export detection  
 ✅ Per-channel energy tracking  
 ✅ Per-bank energy tracking  
@@ -39,7 +37,7 @@ Designed as a professional-grade residential and small commercial energy monitor
 ### Top Level
 
 * ESP32-C5
-* ATM90E32AS x 2 Independent 
+* ATM90E32AS x 2 Independent. Each ATM90E32AS has its own Xtal.
 * Six x CT Clamp Inputs / Ragowski Coil
 * 1, 2 and 3 Phases, Delta 3P3W, Y or Δ
 * Terminal Blocks
@@ -56,7 +54,7 @@ Full integration has been provided for [IPEM SIX within Home Assistant](https://
 ### Current Monitoring and Interfaces
 A range of the mains current sensors (CT Clamps) maybe connected. This allows for **IPEM SIX** to be used for both lower current Home systems and Industrial or commercial installations.
 
- - The accurate **[Atmel ATM90E32](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/Atmel-46003-SE-M90E32AS-Datasheet.pdf)** is used for Enhanced Poly-Phase High-Performance Wide-Span Energy Metering, with fast SPI data communications to an Espressif **ESP32-C5 MCU**.
+ - The accurate **[Atmel ATM90E32AS](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/Atmel-46003-SE-M90E32AS-Datasheet.pdf)** is used for Enhanced Poly-Phase High-Performance Wide-Span Energy Metering, with fast SPI data communications to an Espressif **ESP32-C5 MCU**.
  - The board can **safely monitor a range of mains AC circuits**, from Single phase, Split or Dual phase (such as USA), and  Three phase 3P3W Delta. Full 50 Hz and 60 Hz.
  - An onboard accurate **16bit ADC** allows for monitoring of DC voltages up to 80V.
    
@@ -127,7 +125,7 @@ The IPEM SIX board can be used in a number of projects and installations such as
 
 ### Availability
 
-**IPEM SIX, along with the optional Display Board and DIN enclosure, will be available for purchase in June 2026.**
+**IPEM SIX, either a SDK Board, or complete kit along with the optional Display Board and DIN enclosure, is available now, from the https://ditronix.net/ Shop
 
 ## **Further Information**
 
